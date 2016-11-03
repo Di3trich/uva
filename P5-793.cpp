@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 
-	int c, 
+    int c, 
 
-	return 0;
+    return 0;
 }
